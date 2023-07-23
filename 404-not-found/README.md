@@ -3,7 +3,7 @@
 <h1 align="center">{Your project name}</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="https://cdn.discordapp.com/attachments/1132523107056373760/1132526801114124380/image.png" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
 <div align="center">
